@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(90deg, #ff9966, #ff5e62);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.header-l{
+    float: left;
+    width: 40%;
+    padding-left: 5%;   
+}
+.header-r{
+    float: right;
+    width: 40%;
+    padding-right: 5%;
+    padding-top: 8%;
+}
+.section-1{
+    background-image: url(img/bg/header-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+    padding: 80px;
+}
+.section-2{
+    background-image: url(img/bg/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+    padding: 80px;
+}
+.section-3{
+    background-image: url(img/bg/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+    padding: 80px;
+    
+}
+.my-pic{
+    width: 100%;
+}
+.a11{
+    padding-top: 35%;
+}
+.a12{
+    padding-top: 50%;
+}
+p{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+h1{
+    font-size: 50px;
+    color: steelblue;
+}
+h2{
+    font-size: 35px;
+}
+.mid-l{
+    float: left;
+    width: 40%;
+    padding-left: 5%; 
+    padding-top: 8%;
+}
+.mid-r{
+    float: right;
+    width: 40%;
+    padding-right: 5%;
+    
+}
+.l-works{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10%;
+    
+}
+.lw-pic{
+    width: 30%;
+}
+#lw-h2{
+    text-align: center;
+}
